@@ -1,2 +1,2 @@
 # MAGen
-A self running program built to provide practice calculations and answers for young math students.
+A simple Random Math Generation program designed to provide sample questions and answers for practicing hand calculations. 
